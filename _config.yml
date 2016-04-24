@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Manifest Life
+bio: 'A entity who will manifest life'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: manifestlife.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,22 +25,22 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
+facebook: manifestlifeinc
+twitter: airizzy
+# google: 110581828169592894926
+# instagram: airizzy
+# pinterest: manifestlife
+# linkedin: manifestlife
+youtube: airizzyking
 spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+github: manifestlife
+medium: manifestlifeinc
+email: manifestlifeinc@icloud.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
